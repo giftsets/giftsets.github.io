@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bead699.css",
+    "main.js": "/static/js/main.5ef9a411.js",
+    "static/js/787.7b8f074f.chunk.js": "/static/js/787.7b8f074f.chunk.js",
+    "static/media/engine_07.jpg": "/static/media/engine_07.553a9aba68f6ecdfb2d2.jpg",
+    "static/media/freedive_07.jpg": "/static/media/freedive_07.553a9aba68f6ecdfb2d2.jpg",
+    "static/media/engine_01.jpg": "/static/media/engine_01.15569200dba17beab42d.jpg",
+    "static/media/freedive_01.jpg": "/static/media/freedive_01.15569200dba17beab42d.jpg",
+    "static/media/mocean_01.jpg": "/static/media/mocean_01.15569200dba17beab42d.jpg",
+    "static/media/engine_03.jpg": "/static/media/engine_03.2e6fdd1a0c6d38015bee.jpg",
+    "static/media/freedive_03.jpg": "/static/media/freedive_03.2e6fdd1a0c6d38015bee.jpg",
+    "static/media/mocean_03.jpg": "/static/media/mocean_03.2e6fdd1a0c6d38015bee.jpg",
+    "static/media/engine_06.jpg": "/static/media/engine_06.cb94605acd76d2a6920d.jpg",
+    "static/media/freedive_06.jpg": "/static/media/freedive_06.cb94605acd76d2a6920d.jpg",
+    "static/media/engine_04.jpg": "/static/media/engine_04.6d7222004454acc3f656.jpg",
+    "static/media/freedive_04.jpg": "/static/media/freedive_04.6d7222004454acc3f656.jpg",
+    "static/media/mocean_04.jpg": "/static/media/mocean_04.6d7222004454acc3f656.jpg",
+    "static/media/engine_08.jpg": "/static/media/engine_08.f0aaed80a595211cd6f6.jpg",
+    "static/media/freedive_08.jpg": "/static/media/freedive_08.f0aaed80a595211cd6f6.jpg",
+    "static/media/engine_02.jpg": "/static/media/engine_02.0f0a9b2b20b640557411.jpg",
+    "static/media/freedive_02.jpg": "/static/media/freedive_02.0f0a9b2b20b640557411.jpg",
+    "static/media/mocean_02.jpg": "/static/media/mocean_02.0f0a9b2b20b640557411.jpg",
+    "static/media/engine_05.jpg": "/static/media/engine_05.ca33fcb2820112593e0c.jpg",
+    "static/media/freedive_05.jpg": "/static/media/freedive_05.ca33fcb2820112593e0c.jpg",
+    "index.html": "/index.html",
+    "main.8bead699.css.map": "/static/css/main.8bead699.css.map",
+    "main.5ef9a411.js.map": "/static/js/main.5ef9a411.js.map",
+    "787.7b8f074f.chunk.js.map": "/static/js/787.7b8f074f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bead699.css",
+    "static/js/main.5ef9a411.js"
+  ]
+}
